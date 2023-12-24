@@ -1,0 +1,3 @@
+W ostatnim tygodniu przed świętami Mikołaj napotkał kolejny problem. W jego magicznej fabryce zabawek, maszyny zaczęły działać w nieprzewidywalny sposób, a informacje o prezentach były przesyłane w chaotycznej kolejności. Mikołaj potrzebował sposobu, aby zarządzać tym strumieniem informacji i je uporządkować. "Mapowanie, pomijanie i branie określonej liczby prezentów z listy - to by rozwiązało mój problem!" Czasu było niewiele, a wyzwanie wydawało się trudne. Czy ktoś mógłby mu pomóc zanim nadejdą święta?
+
+Rozwiąż zadanie i spraw, aby testy były zielone - wykorzystaj przygotowane polecenie npm test! Pochwal się swoim rozwiązaniem!
