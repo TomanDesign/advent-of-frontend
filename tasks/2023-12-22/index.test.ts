@@ -1,5 +1,4 @@
 // Tutaj skopiuj testy dla zadania. Uruchom je poleceniem `npm test`
-
 import { TextProcessor, RemoveWordsPlugin, ReplaceCharsPlugin, MarkdownToHtmlPlugin } from './index';
 
 test('TextProcessor with all plugins should process text correctly', () => {
