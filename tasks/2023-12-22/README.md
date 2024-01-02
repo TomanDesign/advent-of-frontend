@@ -1,0 +1,3 @@
+W fabryce Mikołaja jeden z zespołów zajmuje się tłumaczeniem listów nadchodzacych z całego świata. Jest to przydatne szczególnie wtedy, kiedy okresowo zmienia się slang, zestaw emoji lub format tekstu, którego Mikołaj nie do końca rozumie. Niestety, w tym roku poziom skomplikowania listów jest tak duży, że zespół nie nadąża z ich formatowaniem. Mikołaj potrzebuje Twojej pomocy! Czy jesteś w stanie napisać nowy, modularny procesor tekstu, który będzie od teraz otwarty na rozszerzenia i gotowy na przyszłe warianty listów od dzieci?
+
+Rozwiąż zadanie i spraw, aby testy były zielone - wykorzystaj przygotowane polecenie npm test! Pochwal się swoim rozwiązaniem!
